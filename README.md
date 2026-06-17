@@ -44,7 +44,7 @@ This project is a modern web application that allows users to discover stores, r
 
 1. **Clone the Repository**
 
-git clone https://github.com/harshrawate/Assignment-Roxiler-Systems.git
+git clone https://github.com/Truptid07/Smart-Review-System.git
 
 2. **Backend Setup**
 
